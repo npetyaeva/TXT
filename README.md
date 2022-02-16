@@ -50,10 +50,10 @@
     `vim sklls.txt`
     ```
     6. Что такое JSON, XML. Их структура.
-    32. Тестирование API.
-    32. Снятие и чтение логов.
-    32. Postman, Fidler.
-    32. Dev Tools веб браузеров (Google Chrome, FireFox).
+    7. Тестирование API.
+    8. Снятие и чтение логов.
+    9. Postman, Fidler.
+    11. Dev Tools веб браузеров (Google Chrome, FireFox).
     ```
 
 32. Сделать коммит в одну строку.
