@@ -58,11 +58,11 @@
 
 32. Сделать коммит в одну строку.
 
-        `git commit -am "Added preferences.txt & sklls.txt"`
+    `git commit -am "Added preferences.txt & sklls.txt"`
 
 33. Отправить сразу 2 файла на внешний репозиторий.
 
-        `git push`
+    `git push`
 34. На веб интерфейсе создать файл bug_report.txt.
 35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 
